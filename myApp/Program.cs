@@ -9,7 +9,7 @@ public class Program{
              return;
         }
         
-        if(int.TryParse(input, out int value)){
+        if(int.TryParse(input, out int value) && value > 1582){
             int yr = Int32.Parse(input);
 
             answer(yr);
