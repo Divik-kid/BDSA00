@@ -29,11 +29,10 @@ public class Program{
     public static void notYear()
 {   
     bool breaker = false;
-
     while(!breaker){
         Console.WriteLine("Please enter a valid number above 1582");
         var input = Console.ReadLine();
-        
+
         if(input == null){
              return;
         }
@@ -42,10 +41,18 @@ public class Program{
             int mon = Int32.Parse(input);
             if(mon > 1582){
             breaker = true;
-            answer(v);  
+            answer(v);
             }
         }
     }
+    
+}
+
+public static bool isValid(String st){
+    if(int.TryParse(st, out int v) && Int32.Parse(st) > 1582){
+        return true;
+    }
+    return false;
 }
 
 public static void answer(int num){
