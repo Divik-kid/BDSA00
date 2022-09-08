@@ -102,3 +102,7 @@ C:\Users\Chris\Documents\code\A00-BDSA\BDSA00\xTests\appTests\obj\Debug\net6.0\r
 C:\Users\Chris\Documents\code\A00-BDSA\BDSA00\xTests\appTests\obj\Debug\net6.0\appTests.pdb
 C:\Users\Chris\Documents\code\A00-BDSA\BDSA00\xTests\appTests\obj\Debug\net6.0\appTests.genruntimeconfig.cache
 C:\Users\Chris\Documents\code\A00-BDSA\BDSA00\xTests\appTests\obj\Debug\net6.0\ref\appTests.dll
+C:\Users\Chris\Documents\code\A00-BDSA\BDSA00\xTests\appTests\bin\Debug\net6.0\xunit.abstractions.dll
+C:\Users\Chris\Documents\code\A00-BDSA\BDSA00\xTests\appTests\bin\Debug\net6.0\xunit.assert.dll
+C:\Users\Chris\Documents\code\A00-BDSA\BDSA00\xTests\appTests\bin\Debug\net6.0\xunit.core.dll
+C:\Users\Chris\Documents\code\A00-BDSA\BDSA00\xTests\appTests\bin\Debug\net6.0\xunit.execution.dotnet.dll
